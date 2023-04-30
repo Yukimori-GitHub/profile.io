@@ -1,3 +1,3 @@
 # profile.io
-Do not copy
-This is a profile repository
+Do not copy.
+This is a profile repository.
